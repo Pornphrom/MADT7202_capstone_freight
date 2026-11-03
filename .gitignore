@@ -1,0 +1,4 @@
+data/otp_69_01_*.csv
+*.part
+.ipynb_checkpoints/
+__pycache__/

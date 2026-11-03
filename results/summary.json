@@ -1,0 +1,48 @@
+{
+  "observed_Q": 0.3314098364594893,
+  "null_p": 0.9603960396039604,
+  "models": [
+    {
+      "model": "A_2",
+      "status": "optimal",
+      "sites": "พิษณุโลก / สระบุรี",
+      "coverage": 66.42465379836975
+    },
+    {
+      "model": "B_2_0.3",
+      "status": "optimal",
+      "sites": "พิษณุโลก / สระบุรี",
+      "coverage": 66.42465379836975
+    },
+    {
+      "model": "B_2_0.5",
+      "status": "infeasible"
+    },
+    {
+      "model": "B_2_0.7",
+      "status": "infeasible"
+    },
+    {
+      "model": "A_3",
+      "status": "optimal",
+      "sites": "พิษณุโลก / มหาสารคาม / สระบุรี",
+      "coverage": 82.2864963687969
+    },
+    {
+      "model": "B_3_0.3",
+      "status": "optimal",
+      "sites": "พิษณุโลก / มหาสารคาม / สระบุรี",
+      "coverage": 82.2864963687969
+    },
+    {
+      "model": "B_3_0.5",
+      "status": "optimal",
+      "sites": "พิจิตร / มหาสารคาม / สมุทรสาคร",
+      "coverage": 80.11130975829015
+    },
+    {
+      "model": "B_3_0.7",
+      "status": "infeasible"
+    }
+  ]
+}

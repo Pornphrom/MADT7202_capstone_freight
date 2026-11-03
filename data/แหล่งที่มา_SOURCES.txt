@@ -1,0 +1,22 @@
+แหล่งที่มาของข้อมูล — Freight Market Reach (report 2)
+ดาวน์โหลดวันที่ 2026-10-27 · รหัส SHA-256 ของแต่ละไฟล์อยู่ใน manifest_sha256.csv
+
+1) ปริมาณการขนส่งสินค้าด้วยรถบรรทุก ต้นทาง–ปลายทาง ระดับตำบล รายเดือน (otp_69_01)
+   หน่วยงาน: สำนักงานนโยบายและแผนการขนส่งและจราจร (สนข.) · ข้อมูลจาก GPS รถบรรทุก กรมการขนส่งทางบก
+   สัญญาอนุญาต: Open Data Common
+   หน้าชุดข้อมูล: https://otp.gdcatalog.go.th/dataset/91038df9-854e-442d-8408-c54032daf506
+   - otp_69_01_69.csv  ปี 2569 (ม.ค.–เม.ย.)  ข้อมูลหลัก
+     https://otp.gdcatalog.go.th/dataset/91038df9-854e-442d-8408-c54032daf506/resource/ac3db7c7-c4f1-4ca8-93b9-62d36d832f97/download/otp_69_01_69.csv
+   - otp_69_01_68.csv  ปี 2568  ทดสอบปีอื่น
+     https://otp.gdcatalog.go.th/dataset/91038df9-854e-442d-8408-c54032daf506/resource/5f502b31-3c49-4faa-9a02-34a92abdb863/download/otp_69_01_68.csv
+   - otp_69_01_67.xlsx ปี 2567  ทดสอบฤดูกาล
+     https://otp.gdcatalog.go.th/dataset/91038df9-854e-442d-8408-c54032daf506/resource/febbea0b-ae04-4bbd-af4f-868ffd0d030b/download/otp_69_01_67.xlsx
+   - data-dictionary-otp_69_01.pdf  คำอธิบายคอลัมน์ (จากหน้าชุดข้อมูลเดียวกัน)
+
+2) พิกัดจังหวัด (province_lat_long.xlsx)
+   หน่วยงาน: กรมส่งเสริมการปกครองท้องถิ่น · สัญญาอนุญาต CC-BY
+   https://data.go.th/dataset/d41ab000-c49c-4e14-963c-cc062e314076/resource/df922923-e009-4dee-92fc-d963a86ce4b8/download/province_lat_long.xlsx
+
+3) ที่ตั้งโรงงาน กรุงเทพฯ (bangkok.csv, ชุดข้อมูล ops_13_04) — ใช้เฉพาะหาพิกัดกรุงเทพฯ
+   หน่วยงาน: สำนักงานปลัดกระทรวงอุตสาหกรรม (สป.อก.) · สัญญาอนุญาต Open Data Common
+   https://industry.gdcatalog.go.th/dataset/a4e85b60-3fd5-4c50-9450-5e139cb1b0e1/resource/111364ed-2ca7-467e-80ff-19a2e16d5d00/download/bangkok.csv
