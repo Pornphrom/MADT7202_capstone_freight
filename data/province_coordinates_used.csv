@@ -1,4 +1,4 @@
-province,PROVINCE_ID,LAT,LNG,coordinate_source
+﻿province,PROVINCE_ID,LAT,LNG,coordinate_source
 กระบี่,81.0,8.057903,98.92104,province_lat_long.xlsx
 กรุงเทพมหานคร,,13.6977988635453,100.498249137088,Median factory coordinate after bounding-box screen (proxy only)
 กาญจนบุรี,71.0,14.00094,99.55282,province_lat_long.xlsx
